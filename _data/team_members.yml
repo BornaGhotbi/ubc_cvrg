@@ -17,6 +17,14 @@
   education2: Human pose estimation
 
 
+- name: Borna Ghotbi
+  photo: borna.jpg
+  info: Master's Student
+  email: bghotbi@cs.ubc.ca 
+  number_educ: 2
+  education1: Medical Image Processing
+  education2: Deep Learning
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
