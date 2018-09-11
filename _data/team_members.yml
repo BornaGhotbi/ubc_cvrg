@@ -59,6 +59,15 @@
   number_educ: 1
   education1: Reinforcement Learning and its applications in Computer Vision/Robotics
 
+- name: Borna Ghotbi
+  photo: Borna.jpg
+  info: Masters Student
+  email: bghotbi@cs.ubc.ca 
+  webpage: https://github.com/BornaGhotbi
+  number_educ: 2
+  education1: Deep Learning & Image Processing
+  education2: Variational Auto Encoders
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
